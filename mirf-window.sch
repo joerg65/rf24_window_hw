@@ -35,13 +35,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "RF24 Window Sensor"
 Date "17 jul 2016"
 Rev ""
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "License: see cern_ohl_v_1_2.txt"
+Comment2 "2016"
+Comment3 "by Jörg Wolff"
 Comment4 ""
 $EndDescr
 $Comp
